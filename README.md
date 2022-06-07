@@ -1,4 +1,4 @@
-# Solutions-URI
+# Beecrowd-Solutions
 
 Esse é um repositório que foi criado para armazenar as soluções desenvolvidas dos problemas descritos pela Beecrowd.
 
